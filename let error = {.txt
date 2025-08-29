@@ -1,0 +1,6 @@
+let error = {
+  x: 500,
+  y: 300,
+  width: 40,
+  height: 40,
+};
