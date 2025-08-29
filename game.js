@@ -258,7 +258,7 @@ if (lift.x + lift.width < 0) {
 
 function draw() {
   ctx.clearRect(0, 0, canvas.width, canvas.height);
-ctx.fillStyle = "white";          // 白を選択
+ctx.background: = "white";          // 白を選択
 ctx.fillRect(0, 0, canvas.width, canvas.height); // 全画面を白で塗りつぶす
 
   // 地面
